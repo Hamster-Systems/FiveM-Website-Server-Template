@@ -1,0 +1,39 @@
+/* (A) GALLERY CONTAINER */
+/* (A1) ON BIG SCREENS */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, auto); /* 3 IMAGES PER ROW */
+  grid-gap: 10px;
+  max-width: 1200px;
+  margin: 0 auto; /* HORIZONTAL CENTER */
+}
+/* (A2) ON SMALL SCREENS */
+@media screen and (max-width: 640px) {
+  .gallery {
+    grid-template-columns: repeat(2, auto); /* 2 IMAGES PER ROW */
+  }
+}
+
+/* (B) THUMBNAILS */
+.gallery img { 
+  width: 100%; 
+  height: 200px;
+  cursor: pointer;
+  /* FILL, CONTAIN, COVER, SCALE-DOWN : USE WHICHEVER YOU LIKE */
+  object-fit: cover;
+}
+.gallery img:fullscreen { object-fit: contain; }
+
+/* (C) CAPTION */
+.gallery figure { margin: 0; }
+.gallery figcaption { 
+  padding: 5px;
+  background: #3e3e3e;
+  color: #fff;
+}
+
+/* (X) DOES NOT MATTER */
+body, html {
+  padding: 0;
+  margin: 0;
+}
