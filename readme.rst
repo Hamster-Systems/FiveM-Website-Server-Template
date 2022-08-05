@@ -85,3 +85,6 @@ Future Plans:
 
 - + Backend Panel I.E Admin Panel For Images, Latest News, Much More!
 - + Friendly URL's so (this.is.a.friendly.link.com/home instead of this.is.a.friendly.link.com/home.php)
+- + Partnership Page
+- + Contact Us Page
+- + Basic Applications Page
