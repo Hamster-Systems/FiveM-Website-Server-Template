@@ -19,6 +19,8 @@ Do you have a suggestion? Let me know!
 
 Email: CharleyJ@hamsternetwork.com
 
+Critical Security Vulnerability Contact Email: security@hamsternetwork.com
+
 
 Demo Link: Coming Soon!
 
