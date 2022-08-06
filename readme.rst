@@ -27,6 +27,7 @@ Demo Link: Coming Soon!
 Changelog:
 -------------
 06/08/2022:
+
 - + Added SEO fraindly URLs
 
 30/07/2022:
