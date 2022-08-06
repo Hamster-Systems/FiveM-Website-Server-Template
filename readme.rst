@@ -1,4 +1,4 @@
-Version: Pre-Build 0.2.0, 30/07/2022 14:46
+Version: Pre-Build 0.2.2, 06/08/2022 12:26
 ==========
 
 .. image:: https://discord.com/api/guilds/977005233559449630/embed.png
@@ -86,7 +86,7 @@ Future Plans:
 ------
 
 - + Backend Panel I.E Admin Panel For Images, Latest News, Much More!
-- + Friendly URL's so (this.is.a.friendly.link.com/home instead of this.is.a.friendly.link.com/home.php)
+- + Friendly URL's ✅ Added 06/08/2022
 - + Partnership Page
 - + Contact Us Page
 - + Basic Applications Page
