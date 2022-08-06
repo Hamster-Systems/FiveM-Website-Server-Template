@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /(([^/]+/)*([^/.]+))\.php[\ ?]
+	RewriteRule \.php$ /%1/ [R=301,NC,L]
+	RewriteRule ^(.*)/$ /$1.php [NC,L]
+</IfModule>
