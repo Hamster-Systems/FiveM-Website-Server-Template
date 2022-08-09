@@ -20,7 +20,7 @@ Do you have a suggestion? Let me know!
 Email: CharleyJ@hamsternetwork.com
 
 
-Demo Link: Coming Soon!
+Demo Link: https://stateofcaliforniarpc.com/
 
 Changelog:
 -------------
@@ -28,6 +28,7 @@ Changelog:
 
 - + Updated all pages with being able to access CSS while using .htaccess (FriendlyURL's)
 - + Added Partners Page (Early Work)
+- + Added Demo Link
 
 30/07/2022:
 
