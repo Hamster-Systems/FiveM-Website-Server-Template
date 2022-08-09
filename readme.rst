@@ -1,4 +1,4 @@
-Version: Pre-Build 0.2.2, 06/08/2022 12:26
+Version: Build 0.2.1, 05/08/2022 23:02
 ==========
 
 .. image:: https://discord.com/api/guilds/977005233559449630/embed.png
@@ -19,16 +19,11 @@ Do you have a suggestion? Let me know!
 
 Email: CharleyJ@hamsternetwork.com
 
-Critical Security Vulnerability Contact Email: security@hamsternetwork.com
-
 
 Demo Link: Coming Soon!
 
 Changelog:
 -------------
-06/08/2022:
-
-- + Added SEO fraindly URLs
 
 30/07/2022:
 
@@ -89,7 +84,7 @@ Future Plans:
 ------
 
 - + Backend Panel I.E Admin Panel For Images, Latest News, Much More!
-- + Friendly URL's ✅ Added 06/08/2022
+- + Friendly URL's so (this.is.a.friendly.link.com/home instead of this.is.a.friendly.link.com/home.php)
 - + Partnership Page
 - + Contact Us Page
 - + Basic Applications Page

@@ -3,12 +3,12 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Name Of Site / Community - Home</title> <!-- < set your community's name here -->
-	<link rel="stylesheet" href="backend/css/main.css"> <!-- do not touch this, unless you know what u are doing.. -->
+	<title>State Of California : RPC - Home</title> <!-- < set your community's name here -->
+	<link rel="stylesheet" href="/backend/css/main.css"> <!-- do not touch this, unless you know what u are doing.. -->
 	<script src="https://kit.fontawesome.com/af48d48999.js" crossorigin="anonymous"></script>
-    <meta property="og:title" content="Site Name Here"> <!-- meta if u send links on discord etc includes this -->
+    <meta property="og:title" content="State Of California RPC"> <!-- meta if u send links on discord etc includes this -->
     <meta property="og:description" content="Go patrol or get fired.."> <!-- meta if u send links on discord etc includes this -->
-    <meta property="og:image" content="backend/img/promo2.png"> <!-- meta if u send links on discord etc includes this -->
+    <meta property="og:image" content="/backend/img/setting.php"> <!-- meta if u send links on discord etc includes this -->
     <meta property="og:url" content=""> <!-- meta if u send links on discord etc includes this -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script>
@@ -30,9 +30,10 @@
 				<div class="right">
 					<a href="#"> <button class="custom-button custom-button-primary">Forum</button></a>  <!-- change the discord link to your discord's server link -->
 					<a href="https://www.discord.gg/XTvjfhQzDz"><button class="custom-button custom-button-primary">Discord</button></a>  <!-- change the discord link to your discord's server link -->
-					<a href="team.php"><button class="custom-button custom-button-primary">Staff Team</button></a> <!-- The Staff Team Page! -->
-					<a href="gallery.php"><button class="custom-button custom-button-primary">Our Photos</button></a> <!-- to be added to next update -->
-					<a href="https://github.com/Coldalliance/FiveM-Website-Server-Template"> <button class="custom-button custom-button-info">Made By Charley J</button></a> <!-- Made By Charley J, Please Keep Credits! -->
+					<a href="/team.php"><button class="custom-button custom-button-primary">Staff Team</button></a> <!-- The Staff Team Page! -->
+					<a href="/gallery.php"><button class="custom-button custom-button-primary">Our Photos</button></a> <!-- to be added to next update -->
+					<a href="/partners.php"><button class="custom-button custom-button-primary">Our Partners</button></a> <!-- The Partner Page! -->
+					<a href="https://github.com/Coldalliance/FiveM-Website-Template"> <button class="custom-button custom-button-info">Made By Charley J</button></a> <!-- Made By Charley J, Please Keep Credits! -->
 
 				</div>
 			</nav>
@@ -43,7 +44,7 @@
 			<div class="section-promo">
 				<div class="promo-background">
 				
-					<h1>Serve & Protect the Citizens of LS.</h1> <!-- set here title of the promo header -->
+					<h1>Serve & Protect the Citizens of State of California.</h1> <!-- set here title of the promo header -->
 				</div>
 			</div>
 			<div class="section-tutorial">
@@ -63,11 +64,11 @@
 						<div class="dsc">
 							<h3><i class="fab fa-discord"></i>Join our Discord</h3>
 							<p>Chat with fellow members and be part of the community, and receive the latest information & updates by joining our discord server!</p>
-							<a href="https://www.discord.gg/XTvjfhQzDz"><i class="fab fa-discord"></i>name of discord</a>
+							<a href="https://www.discord.gg/XTvjfhQzDz"><i class="fab fa-discord"></i>State Of California RPC</a>
 						</div>
 						<div class="pab">
 							<h3><i class="fas fa-helicopter"></i>Patrol a beat</h3>
-							<p>Come Patrol With Us And Serve The Citizens Of Los Santos!</p> <!-- add some info about patrolling on your server -->
+							<p>Come Patrol With Us And Serve The Citizens Of California!</p> <!-- add some info about patrolling on your server -->
 						</div>
 					</div>
 				</div>
@@ -162,9 +163,9 @@
 	</main>
 
 
-	<footer>
+    <footer>
 		<div class="wrapper">
-			<p> < Site Name > | Made By Charley J | 2022</p>
+			<p><h2>  State Of California </h2><br><h3>© 2022 Charley J</h3></p>
 		</div>
 	</footer>
 
