@@ -1,4 +1,4 @@
-Version: Build 0.2.3, 09/08/2022 23:02
+Version: Build 0.2.3, 09/08/2022 19:46
 ==========
 
 .. image:: https://discord.com/api/guilds/977005233559449630/embed.png
@@ -46,6 +46,10 @@ Fetures:
 - + Staff Team Page
 - + Show Server IP & Port On The Main Page W/ Click To Copy Feture!
 
+Requirements:
+-------------
+
+- + Latest Version Of PHP
 
 Photos:
 --------
