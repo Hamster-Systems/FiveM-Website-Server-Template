@@ -1,4 +1,4 @@
-Version: Build 0.2.1, 05/08/2022 23:02
+Version: Build 0.2.2, 09/08/2022 23:02
 ==========
 
 .. image:: https://discord.com/api/guilds/977005233559449630/embed.png
@@ -24,6 +24,10 @@ Demo Link: Coming Soon!
 
 Changelog:
 -------------
+09/08/2022
+
+- + Updated all pages with being able to access CSS while using .htaccess (FriendlyURL's)
+- + Added Partners Page (Early Work)
 
 30/07/2022:
 
@@ -84,7 +88,7 @@ Future Plans:
 ------
 
 - + Backend Panel I.E Admin Panel For Images, Latest News, Much More!
-- + Friendly URL's so (this.is.a.friendly.link.com/home instead of this.is.a.friendly.link.com/home.php)
-- + Partnership Page
+- + Friendly URL's so (this.is.a.friendly.link.com/home instead of this.is.a.friendly.link.com/home.php) ✅
+- + Partnership Page (Started)
 - + Contact Us Page
 - + Basic Applications Page
