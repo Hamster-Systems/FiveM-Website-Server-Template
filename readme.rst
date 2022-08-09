@@ -1,4 +1,4 @@
-Version: Build 0.2.2, 09/08/2022 23:02
+Version: Build 0.2.3, 09/08/2022 23:02
 ==========
 
 .. image:: https://discord.com/api/guilds/977005233559449630/embed.png
