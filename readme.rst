@@ -92,7 +92,7 @@ Links:
 Future Plans:
 ------
 
-- + Backend Panel I.E Admin Panel For Images, Latest News, Much More!
+- + Backend Panel I.E Admin Panel For Images, Latest News, Much More! (Started)
 - + Friendly URL's so (this.is.a.friendly.link.com/home instead of this.is.a.friendly.link.com/home.php) ✅
 - + Partnership Page (Started)
 - + Contact Us Page
