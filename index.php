@@ -165,7 +165,7 @@
 
     <footer>
 		<div class="wrapper">
-			<p><h2>  State Of California </h2><br><h3>© 2022 Charley J</h3></p>
+			<p><h2>  [RP Community Name] </h2><br><h3>© 2023 Made By Hamster-Systems</h3></p>
 		</div>
 	</footer>
 
