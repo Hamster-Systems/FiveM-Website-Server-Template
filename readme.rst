@@ -20,6 +20,9 @@ Email: CharleyJ@hamster-sys.com
 
 Demo Link: **Coming back soon**
 
+-------------
+We ask you to keep copyright for this website; Please recognise this is a GPL V3 License; Please follow them keeping it to the guidelines. Want to avoid this license please contact us at CharleyJ@hamster-sys.com
+
 Changelog:
 -------------
 09/08/2022
