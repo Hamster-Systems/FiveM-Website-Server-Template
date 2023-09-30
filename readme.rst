@@ -13,14 +13,12 @@ I decided to build this website which is a simple site that even basic coders ca
 
 Do you have a suggestion? Let me know! 
 
-- `Official Discord Server <https://discord.gg/G6BwprQFWa>`_
+- `Official Discord Server <https://discord.gg/Dcgm56f89P>`_
 
-- `Community Discord Server <https://discord.gg/8hT3yHXB38>`_ 
-
-Email: CharleyJ@hamsternetwork.com
+Email: CharleyJ@hamster-sys.com
 
 
-Demo Link: https://stateofcaliforniarpc.com/
+Demo Link: **Coming back soon**
 
 Changelog:
 -------------
@@ -87,7 +85,7 @@ Links:
 ------
 
 - `Documentation (COMING SOON) <https://hamsternetwork.com>`_ 
-- `Official Discord Server <https://discord.gg/G6BwprQFWa>`_
+- `Official Discord Server <https://discord.gg/Dcgm56f89P>`_
 
 Future Plans:
 ------
