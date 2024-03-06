@@ -2,7 +2,7 @@ Version: Build 0.2.3, 09/08/2022 19:46
 ==========
 
 .. image:: https://discord.com/api/guilds/977005233559449630/embed.png
-   :target: https://discord.gg/G6BwprQFWa
+   :target: https://discord.gg/Dcgm56f89P
    :alt: Discord server invite
    
 About Project:
